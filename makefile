@@ -1,7 +1,7 @@
 # simple makefile for compiling
 #
 # Nirre Pluf 
-# 2/21/2021
+# 9/15/2021
 # CSC 250 Lab 3
 
 SOURCE = lab3.c
